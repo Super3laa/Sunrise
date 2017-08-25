@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#1B2758</color>
+    <color name="Night">#4C5ABB</color>
+    <color name="night">#2E3BA1</color>
+    <color name="Morning">#EE534F</color>
+    <color name="morning">#D42E2E</color>
+
+    <color name="colorAccent">#FF4081</color>
+    <color name="refresh">#2E3BA1</color>
+    <color name="refresh1">#D42E2E</color>
+    <color name="refresh2">#FF4081</color>
+</resources>
